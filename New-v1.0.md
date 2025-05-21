@@ -1,10 +1,10 @@
 {
-"Title": "❌ قطع اتصال شما ❌",
-"Description": "با توجه به اختلالات سراسری و جلوگیری از قطع اینترنت شما ، لازمه فورا داخل کانال پشتیبان برنامه عضو شوید ، در غیر این صورت اتصال شما قطع میشود 🙏🏻❤️",
-"Link": "",
-"ColorWave": "#FFD000600",
-"Color": "#FFA0000500",
-"ColorWaveTwo": "FF0003D00",
+"Title": "سلام عشقم 😍",
+"Description": "برای استفاده از برنامه و دسترسی به فیلترشکن‌های متصل بیشتر حتما عضو کانال تلگرامی ما شوید ❤️👇🏻",
+"Link": "tg://join?invite=uypllBUGgZljNGE0",
+"ColorWave": "#673AB7",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#7E57C2",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "",
+"MessageID": "9392929155115",
 "ShowTime": "3",
-"Button": " عضویت اجباری ",
-"ButtonCancell": "  ",
+"Button": "  عضویت فوری  ",
+"ButtonCancell": " بعدا ",
 "Closure": "true",
 "Show": "on"
 }
